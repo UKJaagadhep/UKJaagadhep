@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Jagaadhep, a passionate learner and computer science enthusiast.
 
-📚 I'm currently a second-year student pursuing a B.Tech in Computer Science and Engineering at Amrita Vishwa Vidyapeetham University, Chennai Campus.
+📚 I'm currently a second-year student pursuing B.Tech in Computer Science and Engineering at Amrita Vishwa Vidyapeetham University, Chennai Campus.
 
 🎓 I'm also enrolled in an online degree program for a B.S. in Data Science and Applications at IIT Madras, expanding my knowledge and skills in the world of data.
 
